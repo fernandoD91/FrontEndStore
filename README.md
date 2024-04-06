@@ -22,3 +22,4 @@ Fuente:
 
 # Se Implemento:
 - Normalize : Hoja de estilo para estandarizar algunos elementos.
+- Se utilizara el metodo BEM ( Bloques - elementos - modificadores )
