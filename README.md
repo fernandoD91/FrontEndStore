@@ -2,7 +2,7 @@
 
 URL para visitar el sitio:
 
-> https
+> [https](https://fernandod91.github.io/FrontEndStore/)
 
 Colores:
 
@@ -23,3 +23,4 @@ Fuente:
 # Se Implemento:
 - Normalize : Hoja de estilo para estandarizar algunos elementos.
 - Se utilizara el metodo BEM ( Bloques - elementos - modificadores )
+
