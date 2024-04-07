@@ -111,6 +111,8 @@ h3 {
 @media (min-width: 768px) {
     .grid {
         grid-template-columns: repeat(3, 1fr);
+        max-width: 90%;
+        margin: 0 auto;
     }
 }
 
@@ -216,6 +218,9 @@ h3 {
         grid-template-columns: repeat(2,1fr);
         display: grid;
         gap: 2rem
+    }
+    .camisa__imagen{
+        padding: 2.5rem;
     }
 }
 .formulario{
