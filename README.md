@@ -2,7 +2,7 @@
 
 URL para visitar el sitio:
 
-> [https](https://fernandod91.github.io/FrontEndStore/)
+> https://fernandod91.github.io/FrontEndStore/
 
 Colores:
 
